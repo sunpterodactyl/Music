@@ -1,3 +1,5 @@
-scipy
+streamlit
 matplotlib
 numpy
+pillow
+ffmpeg
